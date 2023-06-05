@@ -1,5 +1,5 @@
 local screenW, screenH = guiGetScreenSize( )
-local sW, sH = ( screenW / 1920 ), ( screenH / 1080 )
+local sW, sH = ( screenW / 1900 ), ( screenH / 1080 )
 
 local weaponBoundKeys = {
 [ "fire" ] = {},
